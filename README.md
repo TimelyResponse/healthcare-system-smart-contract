@@ -105,9 +105,7 @@ This research was supported by Government Engineering College, Raipur and We are
 
 # Developer's details
 
-1. Vishwas Paikra https://github.com/vishwaspaikra007
-2. Satyam Lachhwani https://github.com/Satyam1203
-3. Diksha Verma https://github.com/dikshaverma011
+https://github.com/TimelyResponse
 
 
 
